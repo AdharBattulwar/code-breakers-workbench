@@ -19,6 +19,9 @@ const Header: React.FC = () => {
               <Link to="/">Encryption Tools</Link>
             </Button>
             <Button variant="link" asChild>
+              <Link to="/historical">Historical Ciphers</Link>
+            </Button>
+            <Button variant="link" asChild>
               <Link to="/about">About</Link>
             </Button>
           </nav>
