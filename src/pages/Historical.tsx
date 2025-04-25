@@ -35,7 +35,7 @@ const Historical: React.FC = () => {
       <footer className="bg-muted/30 py-6">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
           <p>Code Breakers Workbench — A multi-layer encryption tool for education and security</p>
-          <p className="mt-1">© {new Date().getFullYear()} Lovable Project</p>
+          <p className="mt-1">© {new Date().getFullYear()}Project By Adhar Battulwar</p>
         </div>
       </footer>
     </div>
